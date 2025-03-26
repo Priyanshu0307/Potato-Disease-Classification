@@ -1,4 +1,5 @@
 🥔 Potato Disease Classification
+
 📌 Overview
 This project focuses on detecting and classifying diseases in potato plants using deep learning models. The model is trained on a dataset of potato plant images and can classify images into different disease categories.
 
